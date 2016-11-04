@@ -1,5 +1,7 @@
 # JCenter Publish Script
 
+[![License](https://img.shields.io/badge/license-GPL-green.svg?style=flat-square)](https://github.com/pexcn/jcenter-publish-script/blob/master/LICENSE)
+
 ## Usage
 
 In gradle files.
