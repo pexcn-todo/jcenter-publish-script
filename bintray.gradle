@@ -30,6 +30,7 @@ bintray {
     key = properties.getProperty("bintray.apikey")
 
     configurations = ['archives']
+    override = true
     pkg {
         repo = 'maven'
         name = rootProject.ext.libraryName
