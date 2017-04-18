@@ -38,7 +38,6 @@ bintray {
         vcsUrl = rootProject.ext.gitUrl
         licenses = rootProject.ext.licenses
         publish = true
-        override = true
         publicDownloadNumbers = true
         version {
             desc = rootProject.ext.libraryDescription
